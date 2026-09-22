@@ -8,7 +8,7 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
-I used Voyant to search this website! [IGN Website~](https://www.ign.com/)
+I used Voyant to search this website! [IGN Website!](https://www.ign.com/)
 
 This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
 
